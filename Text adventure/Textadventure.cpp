@@ -11,7 +11,7 @@
 #include "Item.h"
 #include "Mob.h"
 #include <cstdlib>
-//THIS SHOULD BE COMBAT
+
 using namespace std;
 
 void generateList(Llist& tempList);
